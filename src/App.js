@@ -42,7 +42,7 @@ class App extends React.Component {
             value={author}
           />
           <br />
-          <button type="submit">Save this details</button>
+          <button type="submit">Save btn from New Design</button>
         </form>
       </div>
     );
